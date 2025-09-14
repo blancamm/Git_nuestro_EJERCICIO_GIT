@@ -1,4 +1,4 @@
-# Git nuestro
+# El santo padre de los gitnianos
 
 <<<<<<< HEAD
 *Git* nuestro que estas en los repos
