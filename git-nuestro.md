@@ -1,6 +1,5 @@
 # El santo padre de los gitnianos
 
-<<<<<<< HEAD
 *Git* nuestro que estas en los repos
 Comprimidos sean tus *commits*
 Venga a nosotros tu *log*
